@@ -3,10 +3,10 @@
   "version": "5.1.0",
   "description": "The hassle-free way to integrate analytics into any Node.js application",
   "license": "MIT",
-  "repository": "segmentio/analytics-node",
+  "repository": "@ran2207/analytics-node",
   "author": {
-    "name": "Segment",
-    "email": "tools+npm@segment.com",
+    "name": "Ranjeet",
+    "email": "ranjeet.srinivas@gmail.com",
     "url": "https://segment.com"
   },
   "engines": {
